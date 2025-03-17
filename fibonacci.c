@@ -1,6 +1,4 @@
-// Online C compiler to run C program online
 #include <stdio.h>
-
 void main() {
     int i,a,b,c,n;
     printf("enter the value of n:");
@@ -16,5 +14,5 @@ void main() {
         b=c;
     }
     }
-    // Write C code here
+    
     
